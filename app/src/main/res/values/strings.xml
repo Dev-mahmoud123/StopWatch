@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="text">Key of happiness is not a \n life for money</string>
+    <string name="btn_text">Get Started</string>
+    <string name="btn_text2">Get Stoped</string>
+</resources>
